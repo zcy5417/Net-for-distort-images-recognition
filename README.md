@@ -1,4 +1,5 @@
 (Unfinished)
+
 Trian VGG16 with pristine cifar-10 images,
 test with pristine,noise with variance of 0.01,blur with gaussian kernel of 1.0 images
 
