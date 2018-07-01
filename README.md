@@ -7,5 +7,6 @@ test with pristine,noise with variance of 0.01,blur with gaussian kernel of 1.0 
 | noise       |   32.55%  |   69.36%   |
 | blur       |   43.43%   |  63.8% |
 
-y-axis:input size<img width="200"  src="https://github.com/zcy5417/Net-for-distort-images-recognition/raw/master/test_images/acc_mat_blur.png"/>
-&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspx-axis:layer
+<img width="200"  src="https://github.com/zcy5417/Net-for-distort-images-recognition/raw/master/test_images/acc_mat_blur.png"/>
+x-axis:layer
+y-axis:input size
