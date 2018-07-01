@@ -9,4 +9,5 @@ test with pristine,noise with variance of 0.01,blur with gaussian kernel of 1.0 
 
 <img width="200"  src="https://github.com/zcy5417/Net-for-distort-images-recognition/raw/master/test_images/acc_mat_blur.png"/>
 x-axis:layer
+
 y-axis:input size
